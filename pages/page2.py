@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import datetime
 import requests
-# import pandas as pd
+import pandas as pd
 print('before make_sidebar on page2')
 from navigation import menu
 print('after make_sidebar on page2')
